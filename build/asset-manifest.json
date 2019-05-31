@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cce8147.chunk.css",
+    "main.js": "/static/js/main.dde7a2d1.chunk.js",
+    "main.js.map": "/static/js/main.dde7a2d1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.9a0b0384.chunk.js": "/static/js/2.9a0b0384.chunk.js",
+    "static/js/2.9a0b0384.chunk.js.map": "/static/js/2.9a0b0384.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.380590970141651fc841e857f5ba674f.js": "/precache-manifest.380590970141651fc841e857f5ba674f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
+    "static/media/Defilia.jpg": "/static/media/Defilia.78393680.jpg",
+    "static/media/Dylan.jpg": "/static/media/Dylan.81f86731.jpg",
+    "static/media/Greg.jpg": "/static/media/Greg.b14baa66.jpg",
+    "static/media/Hansen.jpg": "/static/media/Hansen.727c7aa9.jpg",
+    "static/media/Itai.jpg": "/static/media/Itai.ec926eef.jpg",
+    "static/media/Judy.jpg": "/static/media/Judy.1b4ddcd6.jpg",
+    "static/media/Logo-Text.png": "/static/media/Logo-Text.8c18d4ce.png",
+    "static/media/Nabila.jpg": "/static/media/Nabila.bc88f9c2.jpg",
+    "static/media/Salar.jpg": "/static/media/Salar.28e45ff9.jpg",
+    "static/media/Sinan.jpg": "/static/media/Sinan.4df32fc4.jpg",
+    "static/media/Winter_2019_V2_2.png": "/static/media/Winter_2019_V2_2.50f85e3e.png",
+    "static/media/dawn.jpg": "/static/media/dawn.228afd71.jpg",
+    "static/media/epts.jpg": "/static/media/epts.8e3c83ba.jpg",
+    "static/media/facebook-cover.png": "/static/media/facebook-cover.8649af83.png"
+  }
+}
